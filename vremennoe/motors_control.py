@@ -53,7 +53,7 @@ class MotorController:
         self.pwm.stop()
         GPIO.cleanup()
 
-# добавляем функцию плавного изменения скорости
+# добавляем функцию плавного изменения скорости.
 
 class SmoothSpeed:
     def init(self, initial_speed=0, smoothing=0.1):

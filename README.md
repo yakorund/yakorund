@@ -25,5 +25,7 @@
 т.к. привычнее всё делать как в винде. Сложность с сайтом только то, что всё на английском. 
 
 
+
+
 login - yakorund
 Pass  - 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
